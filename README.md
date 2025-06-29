@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mama S Ceesay
 
-<!--
-**mama124-max/mama124-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently studying **Information Systems** at the **University of The Gambia**.  
+💡 I'm passionate about **Data Science** and plan to become a **Data Scientist** in the future.
 
-Here are some ideas to get you started:
+## 🚀 Current Learning
+- **Python**
+- **JavaScript**
+- **HTML & CSS**
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Goals
+- Build real-world data science projects
+- Learn data analysis tools like Pandas, NumPy & Matplotlib
+- Explore machine learning and AI
+
+## 📫 Contact Me
+- 📧 Email: [mamasceesy344@gmail.com](mailto:mamasceesy344@gmail.com)
+
+
